@@ -27,8 +27,8 @@ I'm a **Python Developer** and **Machine Learning Engineer** with a passion for 
 
 ### 📊 GitHub Stats
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanJamadar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanJamadar&layout=compact&theme=tokyonight)
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=/armanjamadar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=/armanjamadar&layout=compact&theme=tokyonight)
 
 ---
 
