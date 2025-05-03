@@ -1,14 +1,15 @@
- I am an Engineer a  person who applies the principles of engineering to the design, development, maintenance, testing, and evaluation of technology.
-Self Directed, Self  Driven Computer Science And Engineering Student with interest in Artificial Intelligence, Machine Learning, Event Management/Co-ordination. seeking internships to apply my skills to assist an organization. I like To Solved Problem In Creative and Efficient Ways. At Pimpri Chinchwad Education Trust, where I am completing my Computer Science And Engineering at Nutan College of Engineering And Research, I have learned the importance of applying classical strategies in the modern day-to-day.
+I’m a passionate and self-driven Software Engineer with 3+ years of experience in building scalable backend systems, microservices, and ML-powered applications. I currently work at Medidata Solutions (Dassault Systèmes), where I lead the development of a machine learning prediction service that supports medical coding for clinical trials — using Python, FastAPI, Celery, and AWS.
 
-•Concentrations in computer science and engineering provide a broad knowledge of engineering concepts
+My technical journey spans across legacy modernization (.NET to .NET Core), API design, database engineering, and ML model integration. I’ve contributed to multiple high-impact projects, including transitioning large-scale healthcare applications and developing intelligent prediction services used by clinical professionals.
 
-•Managed/Co-Ordinated 15+ placement drives, 1 national-level car racing, and designing competition, 10+ college events with my student's Team.
+Beyond coding, I’ve been actively involved in event coordination, technical placements, and volunteering initiatives — having led 15+ placement drives and coordinated national-level events like Enduro Student India.
 
-•Passion for Innovation, Success, Hard Work
+Core Skills:
+Python, FastAPI, Celery, .NET Core, PostgreSQL, MongoDB, Machine Learning, AWS, Docker, Git, CI/CD, ML model lifecycle
 
-•Training And Placement Co-ordinator, Experience In Placement Drives, Crowd Handling, Co-ordination, coordinated 15+ placement drives.
+What drives me:
+Problem-solving with purpose, continuous learning, and building products that make a real-world impact in healthcare and AI.
 
-•Volunteered Enduro Student India national level Car racing and Building Competiton.
+Let’s connect if you’re into software development, ML, or want to talk about optimizing real-world systems!
 
-Email 📩- armanjamadar2001@gmail.com
+Email: armanjamadar2001@gmail.com
