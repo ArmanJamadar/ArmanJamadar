@@ -1,15 +1,43 @@
-I’m a passionate and self-driven Software Engineer with 3+ years of experience in building scalable backend systems, microservices, and ML-powered applications. I currently work at Medidata Solutions (Dassault Systèmes), where I lead the development of a machine learning prediction service that supports medical coding for clinical trials — using Python, FastAPI, Celery, and AWS.
+# Hey 👋, I'm Arman!
 
-My technical journey spans across legacy modernization (.NET to .NET Core), API design, database engineering, and ML model integration. I’ve contributed to multiple high-impact projects, including transitioning large-scale healthcare applications and developing intelligent prediction services used by clinical professionals.
+I'm a **Python Developer** and **Machine Learning Engineer** with a passion for building scalable backend systems and deploying robust ML models. Currently working at **Medidata Solutions (Dassault Systèmes)**, I specialize in MLOps, backend services, and infrastructure automation.
 
-Beyond coding, I’ve been actively involved in event coordination, technical placements, and volunteering initiatives — having led 15+ placement drives and coordinated national-level events like Enduro Student India.
+---
 
-Core Skills:
-Python, FastAPI, Celery, .NET Core, PostgreSQL, MongoDB, Machine Learning, AWS, Docker, Git, CI/CD, ML model lifecycle
+### 🚀 Technical Skills
 
-What drives me:
-Problem-solving with purpose, continuous learning, and building products that make a real-world impact in healthcare and AI.
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery)
 
-Let’s connect if you’re into software development, ML, or want to talk about optimizing real-world systems!
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
-Email: armanjamadar2001@gmail.com
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanJamadar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanJamadar&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:armanjamadar2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arman-jamadar)
+
+---
+
+_Thanks for stopping by!_ 😊
